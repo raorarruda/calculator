@@ -1,3 +1,13 @@
-# Calculadora windows 10 em JavaScript
+# Calculadora Windows 10 em JavaScript
 
-Projeto desenvolvido a partir do exercício proposto no Curso Completo de JavaScript da Hcode Treinamentos.
+Este projeto é uma calculadora funcional construída com JavaScript puro. Foi desenvolvido como parte do curso da HCode Treinamentos e tem como foco principal a prática de conceitos fundamentais de JavaScript, como:
+
+- Manipulação do DOM;
+
+- Eventos de clique e teclado;
+
+- Controle de fluxo com condicionais e funções;
+
+- Atualização dinâmica da interface.
+
+O objetivo foi reforçar a base lógica e estrutural do JS em um projeto prático e direto.
